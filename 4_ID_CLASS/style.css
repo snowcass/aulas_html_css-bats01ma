@@ -1,3 +1,11 @@
+#título-id {
+    color:purple;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: tomato;
@@ -16,4 +24,13 @@ h2 {
 
 .fundo-verde {
     background: #0f0;
+}
+
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: black;
+    color: white;
 }
